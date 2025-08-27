@@ -1,4 +1,4 @@
-# Aplicación de Ejemplo con React 19 y MUI 6
+# Clase 04 - Ejemplos de implementación de formularios en React con validaciones
 
 Esta es una aplicación de ejemplo construida con **React 19**, **Material UI v6 (MUI)**, **Formik/Yup** para validación de formularios, y empaquetada con **Vite**.  
 Incluye distintos formularios de demostración:
